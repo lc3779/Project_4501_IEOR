@@ -11,8 +11,5 @@ Certainly! Let's elaborate on each of the project goals to provide a more compre
 
 ## Project Goals
 1. Blending Affordability with Serenity
-
-Our objective is not just to find quiet corners in New York City but to intertwine this tranquility with affordability. We strive to paint a detailed picture of each neighborhood, factoring in the cost of living, to ensure that the serene spaces we identify are not just peaceful but also financially accessible. This involves a deep dive into rental market trends, analyzing how prices fluctuate over time and space. Our goal is to provide a balanced narrative that resonates with the dreams of average New Yorkers – a narrative where peaceful living does not come at a prohibitive cost.
 2. Analyzing a Spectrum of Urban Complaints
-
-Urban life comes with its unique set of challenges, and our project seeks to address these by scrutinizing a wide array of urban complaints. From the incessant honking of car horns to the less obvious issues like inadequate waste management, our analysis covers a broad spectrum. We intend to use this data to not only identify the quieter neighborhoods but also to understand the underlying causes of unrest in busier areas. This comprehensive analysis will equip potential residents with the knowledge to make informed decisions about their future neighborhoods, ensuring they know what to expect beyond the surface-level tranquility.
+3. Highligting the role of accessible green spaces
