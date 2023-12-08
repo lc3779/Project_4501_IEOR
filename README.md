@@ -7,8 +7,6 @@
 Our primary objective is to identify neighborhoods in New York City that offer a serene living environment, characterized by low noise levels and abundant greenery. To this end, we analyze a diverse array of data sources, including Zillow's historical rent data, 311 urban complaints data from NYC Open Data, and the distribution of green spaces throughout the city. Our analysis is comprehensive, extending beyond the quest for tranquility and greenery to encompass a variety of urban complaints, rent prices, and an assessment of tree data. These datasets will be collectively utilized to pinpoint neighborhoods that meet the criteria of affordability and quality of living.
 
 
-Certainly! Let's elaborate on each of the project goals to provide a more comprehensive and detailed overview that would significantly enhance the content for your README, aiming to contribute substantially to the documentation:
-
 ## Key Aspects of Our Analysis
 - **311 Complaint Analysis**: We determine the number and type of urban complaints by zip code using SQL queries, which helps us gauge the tranquility of neighborhoods.
 - **Greenery Distribution**: Utilizing the NYC Tree Census, we assess which zip codes have the highest number of trees and analyze the quality of these green spaces, to understand the environmental quality of neighborhoods.
